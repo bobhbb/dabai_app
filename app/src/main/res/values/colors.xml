@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dabai_white">#FFF5F5F5</color>
+    <color name="dabai_primary">#FF4FC3F7</color>
+    <color name="dabai_primary_dark">#FF0288D1</color>
+    <color name="dabai_secondary">#FF81C784</color>
+    <color name="dabai_accent">#FFCE93D8</color>
+    <color name="dabai_background">#FFF0F4F8</color>
+    <color name="dabai_surface">#FFFFFFFF</color>
+    <color name="dabai_on_primary">#FF1A1A2E</color>
+    <color name="dabai_on_surface">#FF2D3436</color>
+    <color name="dabai_subtext">#FF636E72</color>
+    <color name="dabai_health_good">#FF00B894</color>
+    <color name="dabai_health_warn">#FFFDCB6E</color>
+    <color name="dabai_health_bad">#FFE17055</color>
+</resources>
