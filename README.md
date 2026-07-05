@@ -1,4 +1,5 @@
 # dabai_app
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+healthy  care
+>>>>>>> 0cb6d563e8f63d2bfa5386d680935351f631f8a6
